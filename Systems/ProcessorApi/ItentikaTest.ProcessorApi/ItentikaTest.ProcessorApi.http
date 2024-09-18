@@ -1,0 +1,6 @@
+@ItentikaTest.ProcessorApi_HostAddress = http://localhost:5126
+
+GET {{ItentikaTest.ProcessorApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

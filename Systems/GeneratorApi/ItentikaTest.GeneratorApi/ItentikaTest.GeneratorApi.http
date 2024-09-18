@@ -1,0 +1,6 @@
+@ItentikaTest.GeneratorApi_HostAddress = http://localhost:5178
+
+GET {{ItentikaTest.GeneratorApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
